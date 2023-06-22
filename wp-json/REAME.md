@@ -1,1 +1,0 @@
-init resource deployement
